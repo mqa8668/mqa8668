@@ -16,10 +16,11 @@ Open to **remote** roles in DevOps, Platform/SRE, or backend engineering.
 
 ### Open source
 
+- [claude-workbench](https://github.com/mqa8668/claude-workbench) - Brakes, gauges and a flight recorder for Claude Code: config-driven gates, a context guard, checkpoints and a subagent cost ledger.
 - [observability-stack](https://github.com/mqa8668/observability-stack) - Loki, Promtail and Grafana logging in a single compose file.
 - [live-caption-translate](https://github.com/mqa8668/live-caption-translate) - Chrome extension for live meeting captions with Vietnamese translation.
 
-More on the way: developer tooling for Claude Code, reusable AI skills, and edge app templates.
+More on the way: reusable AI skills for technical writing and diagrams, and edge app templates.
 
 ### Toolbox
 
