@@ -16,15 +16,15 @@ Open to **remote** roles in DevOps, Platform/SRE, or backend engineering.
 
 ### Open source
 
+- [edge-to-trace](https://github.com/mqa8668/edge-to-trace) - Observability lab you can break on purpose: inject a fault, watch the SLO burn-rate page fire, then click an exemplar to the exact trace. OpenTelemetry, Beyla eBPF, Prometheus, Tempo, Loki, Grafana and Alertmanager to Telegram, all as code.
 - [claude-workbench](https://github.com/mqa8668/claude-workbench) - Brakes, gauges and a flight recorder for Claude Code: config-driven gates, a context guard, checkpoints and a subagent cost ledger.
 - [claude-skills](https://github.com/mqa8668/claude-skills) - Claude Code skills for consultant-grade docs, Figma architecture diagrams, and Vietnamese/bilingual engineering writing.
 - [feedhound](https://github.com/mqa8668/feedhound) - Keyword watcher for public feeds with Telegram alerts: SSRF-safe fetcher, reconciler with a dead-letter queue, Prometheus metrics. Bun, TypeScript, Postgres.
 - [edge-magazine](https://github.com/mqa8668/edge-magazine) - Publishing platform on Cloudflare Workers (Hono, D1, R2, KV, Queues) with a human-reviewed LLM drafting pipeline.
-- [observability-stack](https://github.com/mqa8668/observability-stack) - Loki, Promtail and Grafana logging in a single compose file.
 - [live-caption-translate](https://github.com/mqa8668/live-caption-translate) - Chrome extension for live meeting captions with Vietnamese translation.
 
 ### Toolbox
 
 `Elixir` `Phoenix` `Python` `TypeScript` `Node.js` `Bun` `Hono` `Rust` `PostgreSQL`
 `Kubernetes` `Proxmox` `VMware vSAN` `Docker` `Ansible`
-`Cloudflare Workers` `Grafana` `Loki` `Prometheus` `FIDO2 / WebAuthn`
+`Cloudflare Workers` `Grafana` `Loki` `Prometheus` `Tempo` `OpenTelemetry` `eBPF` `FIDO2 / WebAuthn`
