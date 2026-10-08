@@ -1,18 +1,14 @@
-## Hi, I'm Loc Luong
+Senior DevOps and Elixir backend engineer in Vietnam, working remotely. Most of my work is infrastructure that has to stay up (clusters, identity, deployments, observability) and the backend software that runs on it.
 
-**I build infrastructure that stays up, and the software that runs on it.**
+I'm looking for remote roles in DevOps, Platform/SRE or Elixir backend engineering.
 
-Senior DevOps and Elixir backend engineer, based in Vietnam and working remotely. I've spent my career on the unglamorous systems that companies only notice when they break: clusters, identity, deployments, observability. Lately I also build AI-assisted workflows that let a small team ship like a big one.
+### What I work on
 
-Open to **remote** roles in DevOps, Platform/SRE, or Elixir backend engineering.
-
-### What I bring
-
-- **Infrastructure built to survive failure.** High-availability platforms from bare metal to Kubernetes, with failover and recovery planned up front rather than patched in later.
-- **Security people trust.** Passwordless login, identity and zero-trust access for security-critical products.
-- **Elixir from the ground up.** OTP, Phoenix, LiveView and Oban are my home turf: supervised services, real-time apps and job pipelines taken from idea to production. Python and TypeScript where they fit better.
-- **Docs that ship with the system.** Architecture and deployment docs clear enough that a customer's infra team can run the system on their own.
-- **AI as a force multiplier.** Spec-driven, agent-assisted development with guardrails, so the speed doesn't cost quality.
+- High-availability platforms, from bare metal to Kubernetes, with failover and recovery planned at design time rather than patched in later.
+- Passwordless login, identity and zero-trust access for security-critical products.
+- Elixir is my main language: OTP services, Phoenix and LiveView apps, Oban job pipelines. I use Python or TypeScript when they fit the job better.
+- Architecture and deployment docs that a customer's infra team can follow to run the system on their own.
+- Spec-driven, agent-assisted development, with guardrails so a small team can move faster without the quality dropping.
 
 ### Flagship
 
@@ -31,12 +27,10 @@ Open to **remote** roles in DevOps, Platform/SRE, or Elixir backend engineering.
 
 ### Selected private work
 
-Client work stays private. The short version:
+Client work stays private, so these are described without names. I can go through them in an interview.
 
-- **Elixir platform for e-commerce sellers.** Phoenix API with Oban job pipelines, marketplace integration, passkey sign-in and an LLM-assisted workflow with a person in the loop.
-- **Customer-support RAG assistant.** Parallel retrieval, one streamed LLM call and a citation validator, built for speed and cost per question.
-
-Happy to walk through any of these in an interview.
+- An Elixir platform for e-commerce sellers: Phoenix API, Oban job pipelines, marketplace integration, passkey sign-in, and an LLM-assisted workflow where a person reviews every result.
+- A customer-support RAG assistant that runs retrieval in parallel, makes one streamed LLM call and validates its citations, built to keep latency and cost per question low.
 
 ### Now building
 
