@@ -1,7 +1,5 @@
 Senior DevOps and Elixir backend engineer in Vietnam, working remotely. Most of my work is infrastructure that has to stay up (clusters, identity, deployments, observability) and the backend software that runs on it.
 
-I'm looking for remote roles in DevOps, Platform/SRE or Elixir backend engineering.
-
 ### What I work on
 
 - High-availability platforms, from bare metal to Kubernetes, with failover and recovery planned at design time rather than patched in later.
