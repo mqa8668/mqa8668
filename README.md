@@ -15,6 +15,7 @@ Senior DevOps and Elixir backend engineer in Vietnam, working remotely. Most of 
 ### Backend & platforms
 
 - [feedhound](https://github.com/mqa8668/feedhound) - Keyword watcher for public feeds with Telegram alerts: SSRF-safe fetcher, reconciler with a dead-letter queue, Prometheus metrics. Bun, TypeScript, Postgres.
+- [hunt-monitor](https://github.com/mqa8668/hunt-monitor) - Watches classified feeds for the things you want and alerts you when one shows up. Bun, TypeScript and Postgres, with a CLI and a background worker.
 - [edge-magazine](https://github.com/mqa8668/edge-magazine) - Publishing platform on Cloudflare Workers (Hono, D1, R2, KV, Queues) with a human-reviewed LLM drafting pipeline.
 - [portfolio](https://github.com/mqa8668/portfolio) - My personal site, live at loc.forgiolab.com: Phoenix LiveView with Tailwind, bilingual EN/VI, and a real-time viewer counter.
 
