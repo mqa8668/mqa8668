@@ -25,6 +25,10 @@ Senior DevOps and Elixir backend engineer in Vietnam, working remotely. Most of 
 - [claude-skills](https://github.com/mqa8668/claude-skills) - Claude Code skills for consultant-grade docs, Figma architecture diagrams, and Vietnamese/bilingual engineering writing.
 - [live-caption-translate](https://github.com/mqa8668/live-caption-translate) - Chrome extension for live meeting captions with Vietnamese translation.
 
+### Open source contributions
+
+- [9router](https://github.com/decolua/9router) ![stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&label=%E2%98%85&color=555) - One local endpoint that routes Claude Code, Codex, Cursor and Cline across 40+ AI providers with automatic fallback. I added retry-with-delay on HTTP 429 for every provider, so a rate-limited request waits and tries again instead of failing the session.
+
 ### Selected private work
 
 Client work stays private, so these are described without names. I can go through them in an interview.
